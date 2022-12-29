@@ -21,6 +21,9 @@ class Config(object):
     BOT_USERNAME = "MISS_KRISTY_BOT" # your bot username get it form @botfather
     SUPPORT_CHAT = "KRISTY_AF"  # Your own group for support, do not add the @ if you dont have leave it as it is
     UPDATES_CHANNEL = "KRISTY_MF"  # Your own chsnnel for support, do not add the @ if you dont have leave it as it is
+    JOIN_LOGGER =  (
+        -1001690301851
+    )  # add @miss_kristy_bot in your group and type /id
     EVENT_LOGS = (
         -1001690301851
     )  # add @miss_kristy_bot in your group and type /id
