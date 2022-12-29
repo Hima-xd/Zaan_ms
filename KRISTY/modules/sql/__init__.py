@@ -4,7 +4,7 @@ from sqlalchemy.orm import scoped_session, sessionmaker
 
 from KRISTY import DB_URL
 
-if DB_URI and DB_URL.startswith("postgres://"):
+if DB_URL and DB_URL.startswith("postgres://"):
     DB_URL = DB_URL.replace("postgres://", "postgresql://", 1)
 
 def start() -> scoped_session:
