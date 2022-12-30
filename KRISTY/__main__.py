@@ -96,7 +96,7 @@ start_txt = """
 
 PM_START_TEXT = """
 *Hello {} !*
-» I'm ᴋʀɪꜱᴛʏ ᴀ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ [🔥](https://telegra.ph/file/17fce64cf1e4dda004ecd.jpg)
+» ɪ ᴀᴍ ᴀ ᴘᴏᴡᴇʀ ꜰᴜʟʟ ʙᴏᴛ ᴛᴏ ᴍᴀɴᴀɢᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘꜱ [🔥](https://telegra.ph/file/17fce64cf1e4dda004ecd.jpg)
 ────────────────────────
 » *Uptime:* `{}`
 » `{}` *users, across* `{}` *chats.*
