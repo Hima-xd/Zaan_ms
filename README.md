@@ -3,7 +3,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ᴡᴇʟᴄᴏᴍᴇ+ᴛᴏ+ᴋʀɪꜱᴛʏ+ᴀɴ+ᴀᴅᴠᴀɴᴄᴇ+ʙᴏᴛ)](https://github.com/ALTRON-XD/KRISTY)
 
-                                                             ─「 sᴜᴩᴩᴏʀᴛ 」─
+<p align="center">
+    ─「 sᴜᴩᴩᴏʀᴛ 」─
+</p>
+
 </h3>
 <p align="center">
 <a href="https://telegram.me/KRISTY_AF"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
