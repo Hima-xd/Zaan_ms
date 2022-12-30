@@ -1,7 +1,7 @@
 ![ᴋʀɪꜱᴛʏ](https://th.bing.com/th/id/OIP.hzsGP0ZSS9GpWcWaeDAQQgHaHa?pid=ImgDet&rs=1)
 # [ᴜɴᴍᴀɪɴᴛᴀɪɴᴇᴅ]
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ᴡᴇʟᴄᴏᴍᴇ+ᴛᴏ+ᴋʀɪꜱᴛʏ+ᴀɴ+ᴀᴅᴠᴀɴᴄᴇ+ʙᴏᴛ)](https://github.com/ALTRON-XD/KRISTY)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Kristy+An+Advance+Group+Management+Bot)](https://github.com/ALTRON-XD/KRISTY)
 
 <p align="center">
     ─「 sᴜᴩᴩᴏʀᴛ 」─
