@@ -25,7 +25,7 @@
 ─「 ᴄʀᴇᴅɪᴛꜱ 」─ 
 
 
-ᴛʜᴀɴᴋꜱ ᴛᴏ ᴀʟʟ ᴛʜᴇ ᴅᴇᴠꜱ ᴛᴏ ɢɪᴠᴇ ᴛʜᴇɪʀ ɪᴍᴘᴏʀᴛᴀɴᴛ ᴛɪᴍᴇ ᴛᴏ [ᴋʀɪꜱᴛʏ](https://t.me/MISS_KRISTY_BOT)
+ᴛʜᴀɴᴋꜱ ᴛᴏ ᴀʟʟ ᴛʜᴇ [ᴅᴇᴠꜱ](https://t.me/Kristy_Mf/16) ᴛᴏ ɢɪᴠᴇ ᴛʜᴇɪʀ ɪᴍᴘᴏʀᴛᴀɴᴛ ᴛɪᴍᴇ ᴛᴏ [ᴋʀɪꜱᴛʏ](https://t.me/MISS_KRISTY_BOT)
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -41,7 +41,7 @@
 	
   <h1>
     <p align="center">
-        <a href="https://heroku.com/deploy?template=https://github.com/ALTRON-XD/KRISTY">
+        <a href="https://deploy-btn.vercel.app/">
             <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
         </a>
 </h1>
