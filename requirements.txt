@@ -54,10 +54,9 @@ telegraph
 TgCrypto 
 wget
 wikipedia
-youtube_search_python==1.4.9
+youtube_search_python
 youtube_search
 yt_dlp
 youtube-dl
 youtube_search
-git+https://github.com/Sorrybabe/downloader
 git+https://github.com/python-telegram-bot/ptbcontrib.git
