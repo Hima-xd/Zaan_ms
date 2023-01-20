@@ -119,7 +119,6 @@ if ENV:
     UPDATES_CHANNEL = os.environ.get("UPDATES_CHANNEL", None)
     SPAMWATCH_SUPPORT_CHAT = os.environ.get("SPAMWATCH_SUPPORT_CHAT", None)
     SPAMWATCH_API = os.environ.get("SPAMWATCH_API", None)
-    BOT_ID = int(os.environ.get("BOT_ID", None))
     ARQ_API_URL = os.environ.get("ARQ_API_URL", "https://arq.hamker.in")
     ARQ_API_KEY = os.environ.get("ARQ_API_KEY", "APKOWQ-FMCLIZ-UAULMT-SAMPYA-ARQ")
     START_IMG = os.environ.get("START_IMG", "https://telegra.ph/file/0e4c8b774f519561e4c40.jpg")
