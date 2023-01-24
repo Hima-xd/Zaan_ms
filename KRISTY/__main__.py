@@ -843,7 +843,7 @@ def main():
             updater.bot.set_webhook(url=URL + TOKEN)
 
     else:
-        LOGGER.info(f"ᴋʀɪꜱᴛʏ sᴛᴀʀᴛᴇᴅ, ᴜsɪɴɢ ʟᴏɴɢ ᴘᴏʟʟɪɴɢ. | SUPPORT: [@{SUPPORT_CHAT}]")
+        LOGGER.info(f"{BOT_NAME} sᴛᴀʀᴛᴇᴅ, ᴜsɪɴɢ ʟᴏɴɢ ᴘᴏʟʟɪɴɢ. | SUPPORT: [@{SUPPORT_CHAT}]")
         updater.start_polling(
             timeout=15,
             read_latency=4,
