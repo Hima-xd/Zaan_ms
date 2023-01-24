@@ -854,7 +854,7 @@ def main():
 
 if __name__ == "__main__":
     LOGGER.info(
-        f"sᴜᴄᴄᴇssғᴜʟʟʏ ʟᴏᴀᴅᴇᴅ ᴍᴏᴅᴜʟᴇS Any issu JOIN @KRISTY_AF : {str(ALL_MODULES)}"
+        f"Bot Started Successfully Any Issue Join @KRISTY_AF : {str(ALL_MODULES)}"
     )
     telethn.start(bot_token=TOKEN)
     pbot.start()
