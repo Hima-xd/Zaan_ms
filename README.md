@@ -86,6 +86,8 @@
 `sudo apt install tmux && tmux`
 
 `python3 -m KRISTY`
+	
+HERE YOU GO KRISTY IS DEPLOYED🥀
 
 </details> 
 
