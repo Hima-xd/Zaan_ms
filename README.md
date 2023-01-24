@@ -74,6 +74,8 @@
 `sudo apt-get update -y && apt-get upgrade -y`
 
 `sudo apt-get -y install git`
+	
+`sudo pip3 install -U pip`
 
 `git clone https://github.com/ALTRON-XD/KRISTY && cd KRISTY`
 
