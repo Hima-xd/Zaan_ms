@@ -843,7 +843,7 @@ def main():
             updater.bot.set_webhook(url=URL + TOKEN)
 
     else:
-        LOGGER.info(f"{BOT_NAME} sᴛᴀʀᴛᴇᴅ, ᴜsɪɴɢ ʟᴏɴɢ ᴘᴏʟʟɪɴɢ. | SUPPORT: [@{SUPPORT_CHAT}]")
+        LOGGER.info(f"{BOT_NAME} STARTED, USING LONG POLLING. | SUPPORT: [@{SUPPORT_CHAT}]")
         updater.start_polling(
             timeout=15,
             read_latency=4,
@@ -854,7 +854,7 @@ def main():
 
 if __name__ == "__main__":
     LOGGER.info(
-        f"Bot Started Successfully Any Issue Join @KRISTY_AF : {str(ALL_MODULES)}"
+        f"BOT STARTED SUCCESSFULLY IF YOU FACE ANY ISSUE THEN JOIN @KRISTY_AF : {str(ALL_MODULES)}"
     )
     telethn.start(bot_token=TOKEN)
     pbot.start()
