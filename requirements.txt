@@ -29,7 +29,7 @@ multicolorcaptcha
 motor
 nudepy
 nekos.py
-opencv-python
+opencv-python-headless
 Python_ARQ
 python-telegram-bot==13.14
 pyaztro
