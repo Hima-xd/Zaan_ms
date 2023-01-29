@@ -96,7 +96,7 @@ start_txt = """
 
 PM_START_TEXT = """
 *Hello {} !*
-» ɪ ᴀᴍ ᴀ ᴘᴏᴡᴇʀ ꜰᴜʟʟ ʙᴏᴛ ᴛᴏ ᴍᴀɴᴀɢᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘꜱ [🔥](https://telegra.ph/file/17fce64cf1e4dda004ecd.jpg)
+» ɪ ᴀᴍ {} [🥀]({}) ᴀ ᴘᴏᴡᴇʀ ꜰᴜʟʟ ʙᴏᴛ ᴛᴏ ᴍᴀɴᴀɢᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘꜱ
 ────────────────────────
 » *Uptime:* `{}`
 » `{}` *users, across* `{}` *chats.*
@@ -261,6 +261,8 @@ def start(update: Update, context: CallbackContext):
             update.effective_message.reply_text(
                 PM_START_TEXT.format(
                     escape_markdown(first_name),
+                    escape_markdown(BOT_NAME),
+                    escape_markdown(START_IMG),
                     escape_markdown(uptime),
                     sql.num_users(),
                     sql.num_chats(),
@@ -456,12 +458,14 @@ def KRISTY_about_callback(update, context):
         first_name = update.effective_user.first_name
         uptime = get_readable_time((time.time() - StartTime))
         query.message.edit_text(
-            PM_START_TEXT.format(
-                escape_markdown(first_name),
-                escape_markdown(uptime),
-                sql.num_users(),
-                sql.num_chats(),
-            ),
+                PM_START_TEXT.format(
+                    escape_markdown(first_name),
+                    escape_markdown(BOT_NAME),
+                    escape_markdown(START_IMG),
+                    escape_markdown(uptime),
+                    sql.num_users(),
+                    sql.num_chats(),
+                ),
             reply_markup=InlineKeyboardMarkup(buttons),
             parse_mode=ParseMode.MARKDOWN,
             timeout=60,
@@ -487,11 +491,14 @@ def Source_about_callback(update, context):
     elif query.data == "source_back":
         first_name = update.effective_user.first_name
         query.message.edit_text(
-                PM_START_TEXT.format(
+                                PM_START_TEXT.format(
                     escape_markdown(first_name),
+                    escape_markdown(BOT_NAME),
+                    escape_markdown(START_IMG),
                     escape_markdown(uptime),
                     sql.num_users(),
-                    sql.num_chats()),
+                    sql.num_chats(),
+                ),
                 reply_markup=InlineKeyboardMarkup(buttons),
                 parse_mode=ParseMode.MARKDOWN,
                 timeout=60,
