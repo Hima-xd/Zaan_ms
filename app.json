@@ -192,6 +192,10 @@
          "description": "Set this to True if you want to delete command messages from users who don't have the perms to run that command.",
          "value": "True"
       },
+      "REM_BG_API_KEY": {
+         "description": "get it form removebg.com/api.",
+         "value": "false"
+      },
       "WALL_API": {
          "description": "Required for wallpaper. Get your's from https://wall.alphacoders.com/",
          "required": false,
