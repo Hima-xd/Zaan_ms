@@ -202,5 +202,3 @@ def build_keyboard_alternate(buttons):
 
 def is_module_loaded(name):
     return name not in NO_LOAD
-
-
