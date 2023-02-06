@@ -1,6 +1,6 @@
 {
       "name": "KRISTY",
-      "description": "A Powerful  Telegram group management bot to manage your group.",
+      "description": "A Powerful Telegram Group Management Bot To Manage Your Group.",
       "keywords": [
          "telegram",
          "advance",
@@ -9,7 +9,7 @@
          "KRISTY"
       ],
     
-   "logo":    "https://i.redd.it/7su0xi3jrte41.jpg",  
+   "logo": "https://i.redd.it/7su0xi3jrte41.jpg",  
    "repository": "https://github.com/MISS-KRISTY/KRISTY",
    "addons": [
           {
