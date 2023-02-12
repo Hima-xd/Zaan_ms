@@ -229,7 +229,7 @@ def promote(update: Update, context: CallbackContext) -> str:
             can_edit_messages=bot_member.can_edit_messages,
             can_delete_messages=bot_member.can_delete_messages,
             can_invite_users=bot_member.can_invite_users,
-            # can_manage_voice_chats=bot_member.can_manage_voice_chats,
+            can_manage_voice_chats=bot_member.can_manage_voice_chats,
             can_pin_messages=bot_member.can_pin_messages,
         )
     except BadRequest as err:
@@ -400,7 +400,7 @@ def fullpromote(update: Update, context: CallbackContext) -> str:
             can_promote_members=bot_member.can_promote_members,
             can_restrict_members=bot_member.can_restrict_members,
             can_pin_messages=bot_member.can_pin_messages,
-            # can_manage_voice_chats=bot_member.can_manage_voice_chats,
+            can_manage_voice_chats=bot_member.can_manage_voice_chats,
         )
     except BadRequest as err:
         if err.message == "User_not_mutual_contact":
@@ -796,8 +796,8 @@ def invite(update: Update, context: CallbackContext):
 @run_async
 @connection_status
 def adminlist(update, context):
-    chat = update.effective_chat  # type: Optional[Chat] -> unused variable
-    user = update.effective_user  # type: Optional[User]
+    chat = update.effective_chat ## type: Optional[Chat] -> unused variable
+    user = update.effective_user  ## type: Optional[User]
     args = context.args  # -> unused variable
     bot = context.bot
 
@@ -846,8 +846,8 @@ def adminlist(update, context):
             administrators.remove(admin)
             continue
 
-        # if user.username:
-        #    name = escape_markdown("@" + user.username)
+         # if user.username:
+        # name = escape_markdown("@" + user.username)
         if status == "creator":
             text += "\n 🥀 ᴏᴡɴᴇʀ :"
             text += "\n<code> • </code>{}\n".format(name)
