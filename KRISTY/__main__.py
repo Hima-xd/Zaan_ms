@@ -444,7 +444,7 @@ def KRISTY_about_callback(update, context):
         InlineKeyboardButton(text="ᴅᴇᴠᴇʟᴏᴘᴇʀ", url=f"https://t.me/i_am_pro_king"),
                  ],
                  [
-        InlineKeyboardButton(text="ꜱᴏᴜʀᴄᴇ", url=f"https://github.com/Alton-xd/KRISTY"),
+        InlineKeyboardButton(text="ꜱᴏᴜʀᴄᴇ", url=f"https://github.com/ALTRON-XD/KRISTY"),
                  ],
                  [
                     InlineKeyboardButton(text="◁", callback_data="KRISTY_back"),
