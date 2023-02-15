@@ -1,4 +1,4 @@
-![ᴋʀɪꜱᴛʏ](https://th.bing.com/th/id/OIP.hzsGP0ZSS9GpWcWaeDAQQgHaHa?pid=ImgDet&rs=1)
+![ᴋʀɪꜱᴛʏ](https://telegra.ph//file/62a42f8aeb8d6005a8796.jpg)
 # ᴜɴᴍᴀɪɴᴛᴀɪɴᴇᴅ
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+KRISTY+AN+ADVANCE+BOT)](https://github.com/ALTRON-XD/KRISTY)
