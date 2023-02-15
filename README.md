@@ -30,21 +30,8 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-###      ─「 ᴅᴇᴘʟᴏʏᴍᴇɴᴛꜱ 」─
 
-<details>
-	<summary>ʜᴇʀᴏᴋᴜ/ʀᴀɪʟᴡᴀʏ</summary>
-	<br>
-	<b>
-ᴛʜᴇ ᴇᴀꜱɪᴇꜱᴛ ᴡᴀʏ ᴛᴏ ᴅᴇᴘʟᴏʏ ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ᴠɪᴀ ʜᴇʀᴏᴋᴜ.
-		ɪɴ ᴏʀᴅᴇʀ ᴛᴏ ᴅᴇᴘʟᴏʏ, ʏᴏᴜ ᴊᴜꜱᴛ ʜᴀᴠᴇ ꜰɪʟʟ ᴛʜᴇ ɴᴇᴄᴇꜱꜱᴀʀʏ ᴇɴᴠɪʀᴏɴᴍᴇɴᴛ ᴠᴀʀɪᴀʙʟᴇꜱ ᴀɴᴅ ᴅᴏɴᴇ!</b>
-	
-  <h1>
-    <p align="center">
-        <a href="https://deploy-btn.vercel.app/">
-            <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
-        </a>
-</h1>
+
 </details> 
 <p align="left"><a href="https://heroku.com/deploy?template=https://github.com/Hima-xd/Zaan-ms"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
