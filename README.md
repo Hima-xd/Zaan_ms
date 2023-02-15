@@ -30,6 +30,7 @@
 [![ZAAN](https://telegra.ph//file/4470327512c7ba685aef3.jpg)](https://t.me/zoly_suportt)
 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=MY+YOUTUBE+CHANNEL)](https://youtube.com/@zaan_xD)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
