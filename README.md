@@ -60,13 +60,13 @@
 	
   <h1>
     <p align="center">
-        <a href="https://cloud.okteto.com/deploy?repository=https://github.com/ALTRON-XD/KRISTY">
+        <a href="https://cloud.okteto.com/deploy?repository=https://github.com/Hima-xd/Zaan_ms">
             <img src="https://img.shields.io/badge/Deploy%20On%20Okteto-informational?style=for-the-badge&logo=Okteto" alt="Deploy">
         </a>
 </h1>
 </details> 
 
-	Note:- Fill https://github.com/ALTRON-XD/KRISTY/blob/main/KRISTY/confing.py Before Use
+	Note:- Fill https://github.com/Hima-xd/Zaan_ms/confing.py Before Use
 	
 <details>
 	<summary> ᴠᴘꜱ ᴅᴇᴘʟᴏʏᴍᴇɴᴛ </summary>
@@ -77,7 +77,7 @@
 	
 `sudo pip3 install -U pip`
 
-`git clone https://github.com/ALTRON-XD/KRISTY && cd KRISTY`
+`git clone https://github.com/Hima-xd/Zaan_ms && cd Hima-xd`
 
 `pip3 install --upgrade pip setuptools`
 
@@ -85,9 +85,9 @@
 
 `sudo apt install tmux && tmux`
 
-`python3 -m KRISTY`
+`python3 -m Hima-xd`
 	
-HERE YOU GO KRISTY IS DEPLOYED🥀
+HERE YOU GO ZAAN S DEPLOYED🥀
 
 </details> 
 
