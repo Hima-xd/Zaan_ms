@@ -1,7 +1,7 @@
 ![ᴋʀɪꜱᴛʏ](https://telegra.ph//file/62a42f8aeb8d6005a8796.jpg)
 # ᴜɴᴍᴀɪɴᴛᴀɪɴᴇᴅ
 
-[![Typing SVG](https://rpeadme-typing-svg.herokuapp.com/?lines=WELCOME+TO+ZAAN+HIMO+BOT)](https://github.com/Hima-xd/Zaan_ms)
+[![Typing SVG](https://rpeadme-typing-svg.herokuapp.com/?lines=WELCOME+TO+ZAAN+AN+HIMO+BOT)](https://github.com/Hima-xd/Zaan_ms)
 
 <p align="center">
     ─「 sᴜᴩᴩᴏʀᴛ 」─
