@@ -6,7 +6,7 @@
 <p align="center">
     ─「 𝐙𝐎𝐋𝐘–𝐒𝐔𝐏𝐎𝐑𝐓 」─
 </p>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=PLEASE+JOIN+THE+MY+GROUP+CHANNEL)](https://t.me/zoly_suport)
+
 </h3>
 <p align="center">
 <a href="https://t.me/zoly_suport"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
