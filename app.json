@@ -1,5 +1,5 @@
 {
-      "name": "KRISTY",
+      "name": "ZAAN",
       "description": "A Powerful Telegram Group Management Bot To Manage Your Group.",
       "keywords": [
          "telegram",
@@ -9,8 +9,8 @@
          "KRISTY"
       ],
     
-   "logo": "https://i.redd.it/7su0xi3jrte41.jpg",  
-   "repository": "https://github.com/MISS-KRISTY/KRISTY",
+   "logo": "https://telegra.ph//file/e9fd6359604087539d228.jpg",  
+   "repository": "https://github.com/Hima-xd/Zaan_ms",
    "addons": [
           {
          "options": {
@@ -75,17 +75,17 @@
       },
       "OWNER_USERNAME": {
          "description": "Your username without the @",
-         "value": "I_AM_PRO_KING"
+         "value": "ZAAN–xDT"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to masha support than consider you made an enemy.",
          "required": true,
-         "value": "KRISTY_AF"
+         "value": "ZAAN–xD"
       },
       "UPDATES_CHANNEL": {
          "description": "Your Telegram update channel chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to masha support than consider you made an enemy.",
          "required": true,
-         "value": "KRISTY_MF"
+         "value": "ZAAN–xD"
       },         
       "MONGO_DB_URI": {
          "description": "Required for database connections.",
