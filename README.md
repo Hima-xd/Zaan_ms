@@ -1,10 +1,10 @@
 [![ZAAN–xD](https://telegra.ph//file/62a42f8aeb8d6005a8796.jpg)](https://t.me/zoly_suport)
-# ᴜɴᴍᴀɪɴᴛᴀɪɴᴇᴅ
+# 𝐙𝐎𝐋𝐘–𝐒𝐔𝐏𝐎𝐑𝐓
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+ZAAN+AN+HIMA+BOT)](https://github.com/Hima-xd/Zaan_ms)
 
 <p align="center">
-    ─「 sᴜᴩᴩᴏʀᴛ 」─
+    ─「 𝐙𝐎𝐋𝐘–𝐒𝐔𝐏𝐎𝐑𝐓 」─
 </p>
 
 </h3>
