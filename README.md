@@ -1,7 +1,7 @@
-[![ZAAN–xD](https://telegra.ph//file/62a42f8aeb8d6005a8796.jpg)](https://t.me/zoly_suport)
+[![ZAAN–xD](https://telegra.ph//file/62a42f8aeb8d6005a8796.jpg)](https://t.me/world_of_kaal)
 # ⋆⏤͟͟͞͞ ⍣⃟🍁͢ ⃪ͥ͢ ᷟ𝐖𝐎𝐑𝐋𝐃 𝐎𝐅 𝐊𝐀𝐀𝐋🍁✨
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+ZAAN+SUPPORT+BOT+REPO)](https://t.me/zoly_tolbot)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+ZAAN+SUPPORT+BOT+REPO)](https://t.me/world_of_kaal_1)
 
 <p align="center">
     ─「 ⋆⏤͟͟͞͞ ⍣⃟🍁͢ ⃪ͥ͢ ᷟ𝐖𝐎𝐑𝐋𝐃 𝐎𝐅 𝐊𝐀𝐀𝐋🍁✨」─
@@ -9,17 +9,17 @@
 
 </h3>
 <p align="center">
-<a href="https://t.me/zoly_suport"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/world_of_kaal"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <p align="center">
 <a href="https://t.me/zoly_suportt"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
-### ᴄᴀɴ ʙᴇ ꜰᴏᴜɴᴅ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀꜱ [ZAAN_xD](https://t.me/zoly_tolbot).
+### ᴄᴀɴ ʙᴇ ꜰᴏᴜɴᴅ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀꜱ [ZAAN_xD](https://t.me/Irtykaal).
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=PLEASE+JOIN+THE+MY+GROUP+CHANNEL)](https://t.me/zoly_suport)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=PLEASE+JOIN+THE+MY+GROUP+CHANNEL)](https://t.me/world_of_kaal)
 
 
 ─「 ᴄʀᴇᴅɪᴛꜱ 」─ 
