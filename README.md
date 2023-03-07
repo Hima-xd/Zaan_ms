@@ -25,7 +25,7 @@
 ─「 ᴄʀᴇᴅɪᴛꜱ 」─ 
 
 
-ᴛʜᴀɴᴋꜱ ᴛᴏ ᴀʟʟ ᴛʜᴇ [𝐙𝐎𝐋𝐘–𝐒𝐔𝐏𝐎𝐑𝐓𝐓](https://t.me/zoly_suportt) ᴛᴏ ɢɪᴠᴇ ᴛʜᴇɪʀ ɪᴍᴘᴏʀᴛᴀɴᴛ ᴛɪᴍᴇ ᴛᴏ [ZOLY-TOL](https://t.me/zoly_tolbot)
+ᴛʜᴀɴᴋꜱ ᴛᴏ ᴀʟʟ ᴛʜᴇ [WORLD OF KAAL](https://t.me/world_of_kaal) ᴛᴏ ɢɪᴠᴇ ᴛʜᴇɪʀ ɪᴍᴘᴏʀᴛᴀɴᴛ ᴛɪᴍᴇ ᴛᴏ [WORLD OF KAAL](https://t.me/world_of_kaal_1)
 
 [![ZAAN](https://telegra.ph//file/4470327512c7ba685aef3.jpg)](https://t.me/zoly_suportt)
 
