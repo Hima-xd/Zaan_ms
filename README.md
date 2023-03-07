@@ -1,10 +1,10 @@
 [![ZAAN–xD](https://telegra.ph//file/62a42f8aeb8d6005a8796.jpg)](https://t.me/world_of_kaal)
-# ⋆⏤͟͟͞͞ ⍣⃟🍁͢ ⃪ͥ͢ ᷟ𝐖𝐎𝐑𝐋𝐃 𝐎𝐅 𝐊𝐀𝐀𝐋🍁✨
+# WORLD OF KAAL
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+ZAAN+SUPPORT+BOT+REPO)](https://t.me/world_of_kaal_1)
 
 <p align="center">
-    ─「 ⋆⏤͟͟͞͞ ⍣⃟🍁͢ ⃪ͥ͢ ᷟ𝐖𝐎𝐑𝐋𝐃 𝐎𝐅 𝐊𝐀𝐀𝐋🍁✨」─
+    WORLD OF KAAL
 </p>
 
 </h3>
